@@ -1,0 +1,15 @@
+#story {
+  display: none;
+  font-family: sans-serif;
+  border: solid black 3px;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.top {
+font-size: 10px;
+  margin: 0px;
+}
